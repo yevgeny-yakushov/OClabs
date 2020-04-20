@@ -2,7 +2,7 @@
 **To start the Archiver project (lab 1):**
 
 
-**#ADD to archive#**
+**#Zip#**
 
 ./main -arc "Your dir for archive" "Your name archive"
 
